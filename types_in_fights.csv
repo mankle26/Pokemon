@@ -1,0 +1,16 @@
+type_ID;type;types_in_fights;perc_types_in_fights;types_all_pokemon;perc_types_all_pokemon;difference
+1;Normal;24;14%;24;16%;85%
+2;Fighting;9;5%;8;5%;96%
+3;Flying;30;17%;19;13%;135%
+4;Poison;55;31%;33;22%;142%
+5;Ground;24;14%;14;9%;146%
+6;Rock;18;10%;11;7%;139%
+7;Bug;16;9%;12;8%;114%
+8;Ghost;7;4%;3;2%;199%
+9;Fire;12;7%;12;8%;85%
+10;Water;14;8%;32;21%;37%
+11;Grass;17;10%;14;9%;103%
+12;Electric;4;2%;9;6%;38%
+13;Psychic;28;16%;13;9%;184%
+14;Ice;4;2%;5;3%;68%
+15;Dragon;3;2%;3;2%;85%

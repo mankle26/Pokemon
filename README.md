@@ -12,7 +12,7 @@ shortcomings in today´s popular machine learning culture. I´d like to
 discuss these issues in this project and propose criteria to achieve
 meaningful insights with machine learning and data in general.
 
-<img src="fights_and_advantages.png" width="800">
+<img src="Fights_and_Advantages.png" width="800">
 
 https://public.tableau.com/app/profile/mankle26/viz/Pokemon_Starters_Gen_1/FightsAdvantages 
 
